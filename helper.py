@@ -1,7 +1,7 @@
 from omegaconf import OmegaConf
 import os
 
-config_file = os.path.join(os.getcwd(), '/config.yaml')
+config_file = os.path.join(os.getcwd(), 'config.yaml')
 
 
 def get_db_connection() -> str:

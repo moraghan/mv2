@@ -1,0 +1,9 @@
+/.idea/.gitignore
+/database.db
+/.idea/dataSources.xml
+/identifier.sqlite
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/mv2.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
